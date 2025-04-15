@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 15/04/2025
 
 ## AIM:
 
@@ -49,8 +49,6 @@
 
 ![Screenshot 2025-04-15 114005](https://github.com/user-attachments/assets/00bd747c-9c36-45b9-b6ff-a4d181abe885)
 ![Screenshot 2025-04-15 113927](https://github.com/user-attachments/assets/e89baee2-1b51-42e3-b4f2-b7aa0f04c69c)
-
-
 
 ### Name:G.Theja sree
 ### Register Number: 212224110056
